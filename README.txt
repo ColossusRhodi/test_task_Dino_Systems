@@ -3,3 +3,8 @@ If http endpoint doesn't exist run file 'test_http_response_with_stubs.py'. Curr
 
 To run file from terminal use (pytest test_http_response.py -v) or (test_http_response_with_stubs.py).
 Key '-v' (verbose) lets us see which tests were run.
+
+Tools:
+    pytest, version	5.3.5
+    requests, version	2.23.0
+    jsonschema, version	3.2.0
